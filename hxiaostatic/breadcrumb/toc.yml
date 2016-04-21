@@ -1,6 +1,8 @@
-- name: Xiaokai
+- name: Xiaokai Test
+  href: /hxiaostatic
   homepage: /hxiaostatic/index
   items:
-  - name: Xiaokai Test
-    href: /hxiaostatic/index/
-    homepage: /hxiaostatic/index
+  - name: HTML Test
+    href: /hxiaostatic/html
+    homepage: /hxiaostatic/html/cssmd
+    items:
