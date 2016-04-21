@@ -5,7 +5,7 @@
         "files": [
           "**/*.md",
           "**/*.html",
-          "**/*.yaml"
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -33,7 +33,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/hxiaostatic/breadcrumb/toc.html"
+      "breadcrumb_path": "/hxiaostatic/breadcrumb/toc.json"
     },
     "fileMetadata": {},
     "template": [
