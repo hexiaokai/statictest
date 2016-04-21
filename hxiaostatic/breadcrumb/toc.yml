@@ -1,7 +1,7 @@
 - name: Xiaokai Test
-  href: ../
-  homepage: ../index
+  href: /hxiaostatic/
+  homepage: /hxiaostatic/index
   items:
   - name: HTML Test
-    href: ../html/
-    homepage: ../html/cssmd
+    href: /hxiaostatic/html/
+    homepage: /hxiaostatic/html/cssmd
